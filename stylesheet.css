@@ -1,0 +1,20 @@
+.maindiv{
+    display: flex; 
+    align-items: center; 
+    justify-content: center;
+    color: #A9A9A9;
+    font-style: italic;
+
+}
+.middle{
+    padding-bottom: 15%;
+    padding-top: 3%;
+}
+.upper{
+    padding-top: 5%;
+}
+
+#message{
+    font-size: large;
+    padding-bottom: 5%;;
+}
