@@ -1,5 +1,5 @@
 
-/*adding an array filled with motivational quotes that will be choesen randomley 
+/*adding an array filled with motivational quotes that will be chosen randomly 
 and displayed with HTML and CSS */
 const messagesArray = ["All our dreams can come true,if we have the courage to pursue them. – Walt Disney",
 "The secret of getting ahead is getting started. - Mark Twain",
@@ -25,7 +25,7 @@ const messagesArray = ["All our dreams can come true,if we have the courage to p
 
 ];
 
-//selecting random quote
+//selecting random quotes
 
 function randomSelect(arr){
     const num = Math.floor(Math.random()*arr.length);
